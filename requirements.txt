@@ -1,0 +1,7 @@
+pandas
+numpy
+yfinance
+finance-byu
+pyarrow
+ipykernel
+matplotlib
